@@ -37,7 +37,7 @@ This course is organized as a discussion-based seminar, with brief lectures as n
 
 *Further reading:*
 
-- Marx, Karl. [“The Strife Between Workman and Machine.”}(https://www .marxists.org/archive/marx/works/1867-c1/ch15.htm#S5) Capital, Vol. 1
+- Marx, Karl. [“The Strife Between Workman and Machine.”](https://www .marxists.org/archive/marx/works/1867-c1/ch15.htm#S5) Capital, Vol. 1
 - Michel Foucault 1977 “Docile Bodies.” In Discipline and Punish. Vintage Books. 135-169. Natasha Dow Schüll 2012 Addiction by Design. Princeton University Press.
 
 ###### Session 2 (Mar. 3): Interface

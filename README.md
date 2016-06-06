@@ -4,8 +4,9 @@ The Brooklyn Institute for Social Research: Critical Design Interface and Imagin
 
 [Jordan Kraemer](jordanhkraemer@gmail.com)
 
-The Brooklyn Commons
+The Brooklyn Commons, 
 388 Atlantic Ave (Boerum Hill)
+
 Thursdays, 6:30 - 9:30pm 
 February 25 – March 17, 2016
 
@@ -21,7 +22,7 @@ This course takes design, especially interface design, as an object of study thr
 
 All readings are available through a shared Google drive folder for the course. Please contact me if you have not received the link yet.
 
-Course format and requirements
+#####   Course format and requirements
 
 This course is organized as a discussion-based seminar, with brief lectures as necessary to provide theoretical and historical context for the readings. We may occasionally watch video clips or other media when appropriate. Please prepare each week by identifying one or two main questions or ideas you would like to discuss from the readings.
 
